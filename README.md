@@ -12,4 +12,4 @@ iv.	Daily_High_Temp – The highest temperature for the day
 
 v.	All temperatures are in degrees Fahrenheit
 
-
+This project comprises of performing advanced SQL queries on this weather data. Some operations include querying with geospatial data. 
